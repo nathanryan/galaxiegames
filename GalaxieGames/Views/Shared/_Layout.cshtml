@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - GalaxieGames</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+</head>
+<body background="/Content/img/lfasdgtm.png">
+    <div class="container">
+        <div class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href='@Url.Action("Index", new { action = "Index", controller = "Home" })'>
+                        <img src="/Content/img/logo_medium.png" class="img-responsive" alt="galaxiegames-logo">
+                    </a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navbar-left">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li>@Html.ActionLink("About", "About", "Home")</li>
+                        <li>@Html.ActionLink("Genres", "Index", "Genres")</li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Platforms<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li>@Html.ActionLink("Xbox", "Details/1", "Platforms")</li>
+                                <li>@Html.ActionLink("Playstation", "Details/2", "Platforms")</li>
+                                <li>@Html.ActionLink("Nintendo", "Details/3", "Platforms")</li>
+                            </ul>
+                        </li>
+                        <li>@Html.ActionLink("Games", "Index", "VideoGames")</li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href='@Url.Action("Index", new { action = "Index", controller = "ShoppingCart" })' class="glyphicon glyphicon-shopping-cart"></a></li>
+                        <li>@Html.Partial("_LoginPartial")</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer style="color:#FFF">
+            <p>&copy; @DateTime.Now.Year - GalaxieGames</p>
+            <p> @Html.ActionLink("Admin", "Index", "Admin") </p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

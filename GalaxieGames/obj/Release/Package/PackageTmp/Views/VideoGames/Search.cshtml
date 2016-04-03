@@ -1,0 +1,78 @@
+﻿@{
+    ViewBag.Title = "Search";
+}
+
+<h2>Search Games by Title</h2>
+
+<div>
+    <input id="searchString" type="text" placeholder="Game Title" />
+    <input type="button" value="search" onclick="DoSearch();" />
+</div>
+<div class="container">
+    <div class="panel panel-default">
+        <div id="resultsDiv" class="panel-body" style="color: #000"></div>
+    </div>
+</div>
+
+<div>
+    <input id="searchStringAuto" type="text" placeholder="Game Title" />
+    <div class="container">
+        <div class="panel panel-default">
+            <div id="resultsDivAuto" class="panel-body" style="color: #000"></div>
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    <script type="text/javascript">
+        function DoSearch() {
+            $("#resultsDiv").html("");
+            var titlePart = { "titlePart": $("#searchString").val() };
+            $.ajax({
+                type: "POST",
+                contentType: "application/json; charset-utf-8",
+                url: "/VideoGameService.asmx/GetGamesByTitle",
+                data: JSON.stringify(titlePart),
+                dateType: "json",
+                async: true,
+                success: function (result, textStatus) {
+                    if (textStatus == "success") {
+                        for (var i = 0; i < result.d.length; i++) {
+                            $("#resultsDiv").html($("#resultsDiv").html() + result.d[i] + "<br />");
+                        }
+                    }
+                },
+                error: function (result, status, error) {
+                    $("#resultsDiv").html("ERROR <br/>");
+                }
+            });
+        }
+
+        $(document).ready(function () {
+            $("#searchStringAuto").keyup(function () {
+                $("#resultsDivAuto").html("");
+                var titlePart = { "titlePart": $("#searchStringAuto").val() };
+                $.ajax({
+                    type: "POST",
+                    contentType: "application/json; charset=utf-8",
+                    url: "/VideoGameService.asmx/GetGamesByTitle",
+                    data: JSON.stringify(titlePart),
+                    dataType: "json",
+                    async: true,
+                    success: function (result, textStatus) {
+                        if (textStatus == "success") {
+                            for (var i = 0; i < result.d.length; i++) {
+                                $("#resultsDivAuto").html($("#resultsDivAuto").html() + result.d[i] + "<br/>");
+                            }
+                        }
+                        $("#resultsDivAuto").show();
+                        $("#searchStringAuto").css("background", "#FFF");
+                    }
+                });
+            });
+        });
+
+
+    </script>
+}
+

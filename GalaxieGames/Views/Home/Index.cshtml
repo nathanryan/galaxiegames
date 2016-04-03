@@ -1,0 +1,99 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="container">
+    <div class="jumbotron" style="background: url('/Content/img/fez2.png') no-repeat center center;">
+        <h1 style="color:#fff">Game of the Month !</h1>
+        <p style="color:#fff">Fez</p>
+        <h3 class="panel-title" style="color:#fff; font-size:40px">@Html.ActionLink("Buy Now !", "Details/1", "VideoGames")</h3>
+    </div>
+</div>
+
+<div class="container">
+    <h2 class="featurette-heading" style="color:#fff">Games on Sale <span class="text-muted">Your next adventure awaits.</span></h2>
+    <div class="row">
+        <div class="col-md-3">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">@Html.ActionLink("Yoshi's Island", "Details/7", "VideoGames")</h3>
+                </div>
+                <div class="panel-body">
+                    <img src="~/Content/img/yoshi.png" class="img-responsive" alt="yoshi">
+                </div>
+            </div>
+         </div>
+
+        <div class="col-md-3">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">@Html.ActionLink("Minecraft", "Details/9", "VideoGames")</h3>
+                </div>
+                <div class="panel-body">
+                    <img src="~/Content/img/minecraft.png" class="img-responsive" alt="minecraft">
+                </div>
+            </div>
+          </div>
+
+        <div class="col-md-3">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">@Html.ActionLink("FIFA 16", "Details/3", "VideoGames")</h3>
+                </div>
+                <div class="panel-body">
+                    <img src="~/Content/img/fifa.png" class="img-responsive" alt="fifa">
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">@Html.ActionLink("Terraria", "Details/10", "VideoGames")</h3>
+                </div>
+                <div class="panel-body">
+                    <img src="~/Content/img/terraria.png" class="img-responsive" alt="terraria">
+                </div>
+            </div>
+        </div>
+      </div>
+ </div>
+
+<div class="container">
+    <h2 class="featurette-heading" style="color:#fff">Platforms</h2>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">@Html.ActionLink("Xbox", "Details/1", "Platforms")</h3>
+                </div>
+                <div class="panel-body">
+                    <img src="~/Content/img/xbox.png" class="img-responsive" alt="xbox">
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">@Html.ActionLink("Playstation", "Details/2", "Platforms")</h3>
+                </div>
+                <div class="panel-body">
+                    <img src="~/Content/img/playstation.png" class="img-responsive" alt="playstation">
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">@Html.ActionLink("Nintendo", "Details/3", "Platforms")</h3>
+                </div>
+                <div class="panel-body">
+                    <img src="~/Content/img/nintendo.jpg" class="img-responsive" alt="nintendo">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

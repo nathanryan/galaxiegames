@@ -1,0 +1,25 @@
+﻿@model IEnumerable<GalaxieGames.ViewModel.VideoGameGroup>
+@{
+    ViewBag.Title = "Games Statistics";
+}
+<h2 style="color:#FFF">Game Statistics</h2>
+
+<div class="table-responsive" style="background-color: #fff; color: #000">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Year Published</th>
+                <th>Number of Games</th>
+            </tr>
+        </thead>
+        <tbody>
+@foreach (var item in Model)
+{
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Year)</td>
+                    <td>@item.VideoGameCount</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

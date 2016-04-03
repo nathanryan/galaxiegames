@@ -1,0 +1,10 @@
+﻿@model int
+@{
+    ViewBag.Title = "Checkout Complete";
+}
+<h2 style="color:#FFF">Checkout Complete</h2>
+<p style="color:#FFF">Thanks for your order! Your order number is: @Model</p>
+<p style="color:#FFF">
+    How about shopping for some more games in our
+    @Html.ActionLink("store", "Index", "Home")
+</p>

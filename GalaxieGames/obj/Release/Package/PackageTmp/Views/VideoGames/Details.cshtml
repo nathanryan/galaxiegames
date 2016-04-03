@@ -1,0 +1,43 @@
+﻿@model GalaxieGames.Models.VideoGame
+
+
+
+@{
+    ViewBag.Title = "Game Details";
+}
+
+<h2 style="color:#FFF">@Html.DisplayFor(model => model.Title) Details</h2>
+
+
+<div class="col-md-12">
+    <div class="panel panel-default">
+        <div class="panel-body" style="color: #000">
+            <ul>
+                <li>Price: €@Html.DisplayFor(model => model.Price)</li>
+                <li>Platform: @Html.DisplayFor(model => model.Platform.PlatformName)</li>
+                <li>Genre: @Html.DisplayFor(model => model.Genre.GenreName)</li>
+                <li>Studio: @Html.DisplayFor(model => model.Studio.StudioName)</li>
+                <li>Year: @Html.DisplayFor(model => model.Year)</li>
+            </ul>
+        </div>
+        <div class="panel-footer" style="color: #000">
+            @Html.ActionLink("Back to Games", "Index") |
+            @Html.ActionLink("Add to cart", "AddToCart", "ShoppingCart", new { id = Model.VideoGameID }, "")
+        </div>
+    </div>
+</div>
+
+<div class="col-md-12">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title">Reviews</h3>
+        </div>
+        <div id="content" class="panel-body" style="color: #000">
+            <script src="https://fb.me/react-0.14.0.min.js"></script>
+            <script src="https://fb.me/react-dom-0.14.0.min.js"></script>
+            <script src="@Url.Content("~/Scripts/showdown.min.js")"></script>
+            <script src="@Url.Content("~/Scripts/comments.jsx")"></script>
+        </div>
+    </div>
+</div>
+

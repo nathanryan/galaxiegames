@@ -1,0 +1,74 @@
+﻿@model GalaxieGames.Models.Genre
+
+@{
+    ViewBag.Title = "Genre Details";
+}
+
+
+<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script type="text/javascript">
+    $(function () {
+        var detailsPartial = $('#details');
+
+        $('.details-link').click(function (event) {
+            event.preventDefault();
+            var url = $(this).attr('href');
+
+            $.ajax({
+                url: url,
+                type: 'get',
+                success: function(data) {
+                    detailsPartial.html(data);
+                    $('#clearDetails').click(function () {
+                        detailsPartial.html(null);
+                    });
+                }
+            });
+        });
+    });
+</script>
+
+
+<h2 style="color:#FFF">@Html.DisplayFor(model => model.GenreName) Genre Details</h2>
+
+<div class="panel panel-default">
+    <div class="panel-body" style="color: #000">
+        @Html.DisplayFor(model => model.GenreDescription)
+            @Html.ActionLink("Back to Genres", "Index")
+        
+    </div>
+</div>
+
+
+<h2 style="color:#FFF">Games in Genre</h2>
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model.VideoGames)
+        {
+            <div class="col-md-4">
+                <div class="panel panel-default">
+
+                    <div class="panel-heading">
+                        <h3 class="panel-title">@Html.DisplayFor(modelItem => item.Title)</h3>
+                    </div>
+                    <div class="panel-body" style="color: #000">
+                        <b>Platform: </b>@Html.DisplayFor(modelItem => item.Platform.PlatformName)
+                        <b>Price: </b>@Html.DisplayFor(modelItem => item.Price)
+                        <b>@Html.RouteLink("More Details", new { action = "_details", controller = "VideoGames", id = item.VideoGameID }, new { @class = "details-link" })</b>
+                    </div>
+                    <div class="panel-footer" style="color: #000">
+                        @Html.RouteLink("Game Page", new { action = "Details", controller = "VideoGames", id = item.VideoGameID }) |
+                        @Html.ActionLink("Add to cart", "AddToCart", "ShoppingCart", new { id = item.VideoGameID }, "")
+                    </div>
+                </div>
+                
+            </div>
+    
+        }
+    </div>
+    
+</div>
+<b id="details"></b>
+
+

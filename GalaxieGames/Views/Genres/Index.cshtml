@@ -1,0 +1,32 @@
+﻿@model IEnumerable<GalaxieGames.Models.Genre>
+
+@{
+    ViewBag.Title = "Genres";
+}
+
+<h2 style="color:#FFF">Genres</h2>
+
+<div class="container">
+    <div class="row">
+@foreach (var item in Model)
+            {
+        <div class="col-md-6">
+                <div class="panel panel-default">
+
+                    <div class="panel-heading">
+                        <h3 class="panel-title">@Html.DisplayFor(modelItem => item.GenreName)</h3>
+                    </div>
+                    <div class="panel-body" style="color: #000">
+                        @Html.DisplayFor(modelItem => item.GenreDescription)
+
+
+                    </div>
+                    <div class="panel-footer" style="color: #000">
+                        @Html.ActionLink("View Games", "Details", new { id = item.GenreID })
+                    </div>
+                 </div>
+
+            
+        </div>
+            }</div>
+</div>

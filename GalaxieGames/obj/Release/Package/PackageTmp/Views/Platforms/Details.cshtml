@@ -1,0 +1,43 @@
+﻿@model GalaxieGames.Models.Platform
+
+@{
+    ViewBag.Title = "Platform";
+}
+
+
+<h2 style="color:#FFF">@Html.DisplayFor(model => model.PlatformName) Platform</h2>
+
+<div class="panel panel-default">
+    <div class="panel-body" style="color: #000">
+        @Html.RouteLink("Back to Games", new { action = "Index", controller = "VideoGames"})
+
+    </div>
+</div>
+
+<h2 style="color:#FFF">Games in Platform</h2>
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model.VideoGames)
+        {
+            <div class="col-md-4">
+                <div class="panel panel-default">
+
+                    <div class="panel-heading">
+                        <h3 class="panel-title">@Html.DisplayFor(modelItem => item.Title)</h3>
+                    </div>
+                    <div class="panel-body" style="color: #000">
+                        <b>Platform: </b>@Html.DisplayFor(modelItem => item.Genre.GenreName)
+                        <b>Price: </b>@Html.DisplayFor(modelItem => item.Price)
+                    </div>
+                    <div class="panel-footer" style="color: #000">
+                        @Html.RouteLink("Details", new { action = "Details", controller = "VideoGames", id = item.VideoGameID }) |
+                        @Html.ActionLink("Add to cart", "AddToCart", "ShoppingCart", new { id = item.VideoGameID }, "")
+                    </div>
+                </div>
+
+
+            </div>
+        }
+    </div>
+</div>

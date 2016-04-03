@@ -1,0 +1,28 @@
+﻿@using GalaxieGames.Models;
+@using Microsoft.AspNet.Identity;
+@{
+    ViewBag.Title = "Manage Account";
+}
+
+<h2 style="color:#FFF">@ViewBag.Title.</h2>
+
+<p style="color:#FFF" class="text-success">@ViewBag.StatusMessage</p>
+<p style="color:#FFF">Email is @ViewBag.Email</p>
+<p style="color:#FFF">Birthdate is @ViewBag.BirthDate</p>
+<p style="color:#FFF">ReturnURL is @ViewBag.ReturnUrl</p>
+<div style="color:#FFF" class="row">
+    <div class="col-md-12">
+        @if (ViewBag.HasLocalPassword)
+        {
+            @Html.Partial("_ChangePasswordPartial")
+        }
+        else
+        {
+            @Html.Partial("_SetPasswordPartial")
+        }
+
+    </div>
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

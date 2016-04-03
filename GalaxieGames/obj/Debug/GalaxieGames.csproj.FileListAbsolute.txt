@@ -1,0 +1,245 @@
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\GalaxieGames.dll.config
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\GalaxieGames.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\GalaxieGames.pdb
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Antlr3.Runtime.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\EntityFramework.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\EntityFramework.SqlServer.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Newtonsoft.Json.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\PagedList.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\PagedList.Mvc.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\System.Web.Helpers.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\System.Web.Mvc.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\System.Web.Optimization.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\System.Web.Razor.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\WebGrease.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\EntityFramework.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\EntityFramework.SqlServer.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\PagedList.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\PagedList.Mvc.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\System.Web.Helpers.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\System.Web.Mvc.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\System.Web.Optimization.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\System.Web.Razor.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Antlr3.Runtime.pdb
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Newtonsoft.Json.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\obj\Debug\GalaxieGames.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\obj\Debug\GalaxieGames.pdb
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\GalaxieGames.dll.config
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\GalaxieGames.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\GalaxieGames.pdb
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\Antlr3.Runtime.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\EntityFramework.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\EntityFramework.SqlServer.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\Microsoft.Web.Infrastructure.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\Newtonsoft.Json.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\PagedList.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\PagedList.Mvc.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\System.Web.Helpers.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\System.Web.Mvc.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\System.Web.Optimization.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\System.Web.Razor.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.Deployment.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.Razor.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\WebGrease.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\EntityFramework.xml
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\EntityFramework.SqlServer.xml
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\PagedList.xml
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\PagedList.Mvc.xml
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\System.Web.Helpers.xml
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\System.Web.Mvc.xml
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\System.Web.Optimization.xml
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\System.Web.Razor.xml
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.xml
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.Deployment.xml
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.Razor.xml
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\Antlr3.Runtime.pdb
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\bin\Newtonsoft.Json.xml
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\obj\Debug\GalaxieGames.dll
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\obj\Debug\GalaxieGames.pdb
+H:\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\obj\Debug\GalaxieGames.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\x86\sqlcese40.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\x86\sqlceqp40.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\x86\sqlceme40.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\x86\sqlceer40EN.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\x86\sqlcecompact40.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\x86\sqlceca40.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\amd64\sqlcese40.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\amd64\sqlceqp40.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\amd64\sqlceme40.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\amd64\sqlceer40EN.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\amd64\sqlcecompact40.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\amd64\sqlceca40.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\EntityFramework.SqlServerCompact.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\System.Data.SqlServerCe.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\EntityFramework.SqlServerCompact.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Owin.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\obj\Debug\GalaxieGames.Migrations.InitialCreate.resources
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\obj\Debug\GalaxieGames.csproj.GenerateResource.Cache
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\obj\Debug\GalaxieGames.Migrations.Birthdate.resources
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\ClearScript.V8\ClearScriptV8-32.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\ClearScript.V8\ClearScriptV8-64.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\ClearScript.V8\v8-ia32.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\ClearScript.V8\v8-x64.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\ClearScript.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\JavaScriptEngineSwitcher.V8.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\JSPool.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\MsieJavaScriptEngine.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\React.Core.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\React.Web.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\React.Web.Mvc4.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\VroomJs.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\WebActivatorEx.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\JSPool.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\React.Core.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\React.Web.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\React.Web.Mvc4.xml
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\obj\Debug\GalaxieGames.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Downloads\GalaxieGames\GalaxieGames\obj\Debug\GalaxieGames.Migrations.email.resources
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\ClearScript.V8\ClearScriptV8-32.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\ClearScript.V8\ClearScriptV8-64.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\ClearScript.V8\v8-ia32.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\ClearScript.V8\v8-x64.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\GalaxieGames.dll.config
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\GalaxieGames.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\GalaxieGames.pdb
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\x86\sqlcese40.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\x86\sqlceqp40.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\x86\sqlceme40.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\x86\sqlceer40EN.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\x86\sqlcecompact40.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\x86\sqlceca40.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\amd64\sqlcese40.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\amd64\sqlceqp40.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\amd64\sqlceme40.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\amd64\sqlceer40EN.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\amd64\sqlcecompact40.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\amd64\sqlceca40.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Antlr3.Runtime.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\ClearScript.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\EntityFramework.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\EntityFramework.SqlServer.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\EntityFramework.SqlServerCompact.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\JavaScriptEngineSwitcher.V8.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\JSPool.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\MsieJavaScriptEngine.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Newtonsoft.Json.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Owin.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\PagedList.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\PagedList.Mvc.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\React.Core.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\React.Web.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\React.Web.Mvc4.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\System.Data.SqlServerCe.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\System.Web.Helpers.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\System.Web.Mvc.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\System.Web.Optimization.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\System.Web.Razor.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.Razor.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\VroomJs.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\WebActivatorEx.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\WebGrease.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\EntityFramework.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\EntityFramework.SqlServer.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\EntityFramework.SqlServerCompact.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\JSPool.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Newtonsoft.Json.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\PagedList.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\PagedList.Mvc.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\React.Core.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\React.Web.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\React.Web.Mvc4.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\System.Web.Helpers.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\System.Web.Mvc.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\System.Web.Optimization.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\System.Web.Razor.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\System.Web.WebPages.Razor.xml
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\Antlr3.Runtime.pdb
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\obj\Debug\GalaxieGames.Migrations.InitialCreate.resources
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\obj\Debug\GalaxieGames.Migrations.Birthdate.resources
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\obj\Debug\GalaxieGames.Migrations.email.resources
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\obj\Debug\GalaxieGames.csproj.GenerateResource.Cache
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\obj\Debug\GalaxieGames.dll
+C:\Users\nathan\OneDrive\College\3rd Year\Semester 1\Advanced Internet Technologies\0. Project\GalaxieGames\GalaxieGames\GalaxieGames\obj\Debug\GalaxieGames.pdb

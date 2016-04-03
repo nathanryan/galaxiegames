@@ -1,0 +1,88 @@
+﻿@model PagedList.IPagedList<GalaxieGames.Models.VideoGame>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Games";
+}
+
+<h2 style="color:#FFF">Games</h2>
+
+@section scripts {
+    <script type="text/javascript">
+        function DoSearch() {
+            $("#resultsDiv").html("");
+            var titlePart = { "titlePart": $("#searchString").val() };
+            $.ajax({
+                type: "POST",
+                contentType: "application/json; charset-utf-8",
+                url: "/VideoGameService.asmx/GetGamesByTitle",
+                data: JSON.stringify(titlePart),
+                dateType: "json",
+                async: true,
+                success: function (result, textStatus) {
+                    if (textStatus == "success") {
+                        for (var i = 0; i < result.d.length; i++) {
+                            $("#resultsDiv").html($("#resultsDiv").html() + "<b>" + result.d[i] + "<br />");
+                        }
+                    }
+                },
+                error: function (result, status, error) {
+                    $("#resultsDiv").html("ERROR <br/>");
+                }
+            });
+        }
+    </script>
+}
+
+
+<div class="panel panel-default">
+    <div class="panel-body" style="color: #000">
+        <div>
+            <h3>Quick lookup of Game Details:</h3>
+            <input id="searchString" type="text" placeholder="Enter Game Title" />
+            <input type="button" value="Search" onclick="DoSearch();" />
+            <div id="resultsDiv" class="panel-body" style="color: #000"></div>
+        </div>
+    </div>
+</div>
+
+<div class="panel panel-default">
+    <div class="panel-body" style="color: #000">
+        Sort By:
+        @Html.ActionLink("Title", "Index", new { sortOrder = ViewBag.NameSortParm }) |
+        @Html.ActionLink("Price", "Index", new { sortOrder = ViewBag.PriceSortParm })
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4">
+                <div class="panel panel-default">
+
+                    <div class="panel-heading">
+                        <h3 class="panel-title">@Html.DisplayFor(modelItem => item.Title)</h3>
+                    </div>
+                    <div class="panel-body" style="color: #000">
+                        <b>Platform: </b>@Html.DisplayFor(modelItem => item.Platform.PlatformName)
+                        <b>Price: </b>@Html.DisplayFor(modelItem => item.Price)
+                    </div>
+                    <div class="panel-footer" style="color: #000">
+                        @Html.ActionLink("Details", "Details", new { id = item.VideoGameID }) |
+                        @Html.ActionLink("Add to cart", "AddToCart", "ShoppingCart", new { id = item.VideoGameID }, "")
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+
+
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
